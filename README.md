@@ -1,2 +1,2 @@
 # csgo-configs
-My currently used autoexec.cfg for Counter-Strike: Global Offensive.
+This repository hosts my currently used autoexec.cfg and a practice.cfg for practicing smokes, flashbangs, etc.
